@@ -6,7 +6,15 @@ imported: '2022-06-27T04:24:36+00:00'
 last_modified: '2022-06-27T10:21:02.009313+00:00'
 parser: null
 source_metadata:
-  id: bdr:W1KG13126
+  bdrc-instance-id: W1KG13126
+  creation_method: proofreading, annotation-transfer
+  soucre: 
+      base_file: 
+        id: D3871/peking.txt  #<rkts_text_id>/<edition>
+        initial_creation_type: input
+      line_page_info: 
+        id: I647D7CBC/I1KG13283  #<pecha_id>/<bdrc_image_group_id>
+        initial_creation_type: OCR
   base:
     EE71:
       image_group_id: I1KG13283
