@@ -8,7 +8,7 @@ parser: null
 source_metadata:
   bdrc-instance-id: W1KG13126
   creation_method: proofreading, annotation-transfer
-  soucre: 
+  source: 
       base_file: 
         id: D3871/peking.txt  #<rkts_text_id>/<edition>
         initial_creation_type: input
